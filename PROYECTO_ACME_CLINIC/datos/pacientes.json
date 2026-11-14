@@ -1,0 +1,32 @@
+[
+    {
+        "identificacion": "1234567898",
+        "nombres": "maria",
+        "apellidos": "lozano",
+        "telefono": "3293456789",
+        "email": "maria28@gmail.com",
+        "direccion": "juncas carrera#34",
+        "genero": "femenina",
+        "estado_civil": "soltera"
+    },
+    {
+        "identificacion": "1096952161",
+        "nombres": "geraldin natalia",
+        "apellidos": "mariño sepulveda",
+        "telefono": "3108045933",
+        "email": "geraldinnataliamarinosepulveda@gmail.com",
+        "direccion": "Cl 185 # 26 – 85",
+        "genero": "femenino",
+        "estado_civil": "soltera"
+    },
+    {
+        "identificacion": "12345",
+        "nombres": "nata",
+        "apellidos": "rozo",
+        "telefono": "716525",
+        "email": "nai@.com",
+        "direccion": "juncal",
+        "genero": "masculiono",
+        "estado_civil": "soltera"
+    }
+]

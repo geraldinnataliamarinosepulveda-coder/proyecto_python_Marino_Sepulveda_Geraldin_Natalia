@@ -1,0 +1,44 @@
+[
+    {
+        "fecha": "2026-11-13 16:57",
+        "paciente_id": "1234567898",
+        "paciente": "maria lozano",
+        "medico": "Admin Administrador",
+        "sintomas": "dolor  de cabeza vomito naucias",
+        "diagnostico": "ok",
+        "prescripcion": {
+            "medicamento": "nose",
+            "cantidad": "6",
+            "dosis": "8",
+            "tiempo": "9"
+        }
+    },
+    {
+        "fecha": "2026-11-13 18:05",
+        "paciente_id": "1096952161",
+        "paciente": "geraldin natalia mariño sepulveda",
+        "medico": "Admin Administrador",
+        "sintomas": "vomito dolor abdominal",
+        "diagnostico": "esta mal",
+        "prescripcion": {
+            "medicamento": "doles y acetaminofen ",
+            "cantidad": "1 ml",
+            "dosis": "2ml",
+            "tiempo": "8 dias"
+        }
+    },
+    {
+        "fecha": "2026-11-13 19:18",
+        "paciente_id": "12345",
+        "paciente": "nata rozo",
+        "medico": "Admin Administrador",
+        "sintomas": "nose",
+        "diagnostico": "jumm",
+        "prescripcion": {
+            "medicamento": "nairn",
+            "cantidad": "6",
+            "dosis": "5m",
+            "tiempo": "8 dias"
+        }
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "identificacion": "0000",
+        "nombres": "Admin",
+        "apellidos": "Administrador",
+        "telefono": "555000111",
+        "email": "admin@acmeclinic.com",
+        "direccion": "Cl 185 # 26 - 85",
+        "rol": "administrativo",
+        "clave": "3b612c75a7b5048a435fb6ec81e52ff92d6d795a8b5a9c17070f6a63c97a53b2"
+    }
+]
