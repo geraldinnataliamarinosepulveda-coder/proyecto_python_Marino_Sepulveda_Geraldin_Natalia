@@ -2,7 +2,7 @@ from datetime import datetime
 from almacenamiento import leer_json, guardar_json
 
 ARCHIVO_PACIENTES = "pacientes.json"
-ARCHIVO_CONSULTAS = "consultas.json"
+ARCHIVO_CONSULTAS = "diagnosticos.json"
 
 
 def crear_consulta(usuario):
