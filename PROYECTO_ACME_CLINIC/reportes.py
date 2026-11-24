@@ -55,3 +55,22 @@ def reporte_anual_diagnosticos():
 
 grupos [anion].append (diagnosticos )
 
+reporte = {"años" : { }}
+
+for anion, registros in 
+sorted (grupos ,items)))
+
+medicamentos =set()
+pacientes_atendidos = set()
+sintomas_totales = 0 
+medicamentos_nombres = []
+for registro in registros :
+    medico = regristros.get ("pacientes_id")
+    if pacientes_id :
+
+pacientes_atendidos.add (pacientes_id)
+
+sintomas_totales +=contawr_sintomas (
+    registro.get ("medico","")
+    
+
